@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - In 2008 I moved to **Berlin** with my wife, after we had both quit our jobs 🙀. My new career as a **freelance music composer and sound designer** took off nicely, and 12 years after I felt like doing something new again: **learn to code!** So I joined Lewagon! I then became **Teacher Assistant** for a while, found a job as **software engineer in a startup** for a year, and now I'm back TA-ing at Lewagon again, YAY 🎉 !!!
 
 On the side I have been working on a couple of personal projects:
-- **BAMSFX** my online Sound Effects shop built with **Ruby on Rails**: **[HERE](https://www.bamsfx.com)**
-- **The Quest** a small WIP game that I made mostly to train with **NodeJS/ExpressJS** and **MongoDB**: **[The Quest](https://thequest-bamsfx.herokuapp.com/)**
+- **BAMSFX** my online Sound Effects shop built with **Ruby on Rails**: **[HERE](https://www.bamsfx.com)** <br>
+[<img src="https://user-images.githubusercontent.com/32952612/125622993-8d56cd7e-1d71-4990-96e2-bebac0adee3d.png" alt="alt text" width="250px">](https://www.bamsfx.com)
 
-![Screenshot 2021-03-03 at 15 29 17](https://user-images.githubusercontent.com/32952612/125621782-ebfdcb22-f09d-466c-a747-e9befefc98ee.png)
-![MetaImage](https://user-images.githubusercontent.com/32952612/125621655-bbeb3775-ccc8-483e-b3bb-8cf65c7028d2.png)
+- **The Quest** a small WIP game that I made mostly to train with **NodeJS/ExpressJS** and **MongoDB**: **[The Quest](https://thequest-bamsfx.herokuapp.com/)**
+[<img src="https://user-images.githubusercontent.com/32952612/125621655-bbeb3775-ccc8-483e-b3bb-8cf65c7028d2.png" alt="alt text" width="250px">](https://thequest-bamsfx.herokuapp.com/)
