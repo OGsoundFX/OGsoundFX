@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 -->
 
 - My name is Olivier Girardot.
-- I graduated from the **Lewagon coding bootcamp** in March 2020, after 2 months of intensive but soooo inspiring bootcamp 🚀
-- Before that I worked as a statistician in a health insurance company in Paris for 5 years. I realised very quickly that this wasn't the career I was looking for. **Music** had always been my true passion, so I went for it.
-- In 2008 I moved to **Berlin** with my wife, after we had both quit our jobs 🙀. My new career as a **freelance music composer and sound designer** took off nicely, and 12 years after I felt like doing something new again: **learn to code!** So I joined Lewagon! I then became **Teacher Assistant** for a while, found a job as **software engineer in a startup** for a year, and now I'm back TA-ing at Lewagon again, YAY 🎉 !!!
+- 🔭 I’m currently teaching code @**LeWagon**
+- 🎧 I am also working on my **Sound Effect online shop: [BAMSFX](https://www.bamsfx.com)**
+- 🎓 I graduated from the **Lewagon coding bootcamp** in March 2020, after 2 months of intensive but soooo inspiring bootcamp 🚀
+- 🎹 I have been a professional musician and sound designer for over 15 years. I even have my **[Youtube Channel](https://www.youtube.com/ogsoundfx)**
+            (And also my **[Youtube Music Channel](https://www.youtube.com/channel/UCA8H9FaKjq33VUZM7FHLdGQ)**)
 
-On the side I have been working on a couple of personal projects:
+Check out some of my projects:
 - **BAMSFX** my online Sound Effects shop built with **Ruby on Rails**: **[HERE](https://www.bamsfx.com)** <br>
 [<img src="https://user-images.githubusercontent.com/32952612/125622993-8d56cd7e-1d71-4990-96e2-bebac0adee3d.png" alt="alt text" width="250px">](https://www.bamsfx.com)
 
