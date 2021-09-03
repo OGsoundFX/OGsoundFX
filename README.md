@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-[<img width="1421" alt="Screenshot 2021-07-14 at 14 09 52" src="https://user-images.githubusercontent.com/32952612/125619738-d2e09ada-efb6-4e75-8d18-4ef1b0c9dcbc.png">](https://www.oliviergirardot.com)
-
 <!--
 **OGsoundFX/OGsoundFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
