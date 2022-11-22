@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - **BAMSFX** my online Sound Effects shop built with **Ruby on Rails: [HERE](https://www.bamsfx.com)** <br>
 [<img src="https://user-images.githubusercontent.com/32952612/125622993-8d56cd7e-1d71-4990-96e2-bebac0adee3d.png" alt="alt text" width="250px">](https://www.bamsfx.com)
 
-- **The Quest** a small WIP game that I made mostly to train with **NodeJS/ExpressJS** and **MongoDB**: **[The Quest](https://thequest-bamsfx.herokuapp.com/)**
+- **The Quest** a small WIP game that I made mostly to train with **NodeJS/ExpressJS** and **MongoDB**: **[The Quest](https://the-quest.onrender.com/)**
 [<img src="https://user-images.githubusercontent.com/32952612/125621655-bbeb3775-ccc8-483e-b3bb-8cf65c7028d2.png" alt="alt text" width="250px">](https://thequest-bamsfx.herokuapp.com/)
