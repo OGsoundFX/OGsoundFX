@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 -->
 
 - My name is Olivier Girardot. I am French, born in LA and living in Berlin.
-- 🔭 I’m currently Batch Manager and Teacher @**LeWagon**
-- 🎧 I am also working on my **Sound Effect online shop: [BAMSFX](https://www.bamsfx.com)**
+- 🔭 I’m currently Software Engineer @**Centrl**, PO @**Masterschool**, Teacher @**LeWagon** and Sound Designer @**BamSFX**
+- 🎧 Check out my **Sound Effect online shop: [BAMSFX](https://www.bamsfx.com)**
 - 🎓 I graduated from the **Lewagon coding bootcamp** in March 2020 🚀
 - 🎹 I have been a professional musician and sound designer for over 15 years. I even have my **[Youtube Channel](https://www.youtube.com/ogsoundfx)**
-            (And also my **[Youtube Music Channel](https://www.youtube.com/channel/UCA8H9FaKjq33VUZM7FHLdGQ)**)
 
 
 <br>
