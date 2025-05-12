@@ -15,17 +15,42 @@ Here are some ideas to get you started:
 -->
 
 - My name is Olivier Girardot. I am French, born in LA and living in Berlin.
-- 🔭 I’m currently Software Engineer @**Centrl**, PO @**Masterschool**, Teacher @**LeWagon** and Sound Designer @**BamSFX**
+- 🔭 I’m currently Software Engineer @**[centrl.studio](https://app.centrl.studio/)**, Web Dev Teacher @**LeWagon** and Sound Designer @**[BamSFX](https://www.bamsfx.com)**
+- I build web applications in ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 - 🎧 Check out my **Sound Effect online shop: [BAMSFX](https://www.bamsfx.com)**
 - 🎓 I graduated from the **Lewagon coding bootcamp** in March 2020 🚀
 - 🎹 I have been a professional musician and sound designer for over 15 years. I even have my **[Youtube Channel](https://www.youtube.com/ogsoundfx)**
 
+## 🛠️ Tech Stack
+
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![Active Record](https://img.shields.io/badge/-Active%20Record-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat)
+![Stimulus](https://img.shields.io/badge/-Stimulus-2E2E2E?style=flat&logo=stimulus&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Relational DB](https://img.shields.io/badge/-Relational%20DB-003B57?style=flat)
+![AJAX](https://img.shields.io/badge/-AJAX-4A8DB7?style=flat)
+![HTTP](https://img.shields.io/badge/-HTTP-6F4E37?style=flat)
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://stimulus.hotwired.dev/" target="_blank"> <img src="https://res.cloudinary.com/dk9a86uhu/image/upload/v1638625147/various/stimulus_ayew1b.png" alt="stimulus" width="40" height="40"/> <a href="https://https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="rails" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-<br>
+<details>
+  <summary>📚 More about me</summary>
+  I started programming in 2020 while working as a sound designer...
+</details>
 <h3>Check out some of my projects:</h3>
 
 - **BAMSFX** my online Sound Effects shop built with **Ruby on Rails: [HERE](https://www.bamsfx.com)** <br>
