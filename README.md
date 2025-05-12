@@ -61,12 +61,36 @@ Here are some ideas to get you started:
 <br>
 
 ## 🚀 Check out some of my projects
-<table> <tr> <td> <a href="https://bamsfx.com"> <img width="700" alt="Screenshot 2025-05-12 at 12 46 17" src="https://github.com/user-attachments/assets/062db432-9648-44bb-bdd2-27d963c49566" />
- </a> </td> <td> <strong>BAMSFX</strong><br> My online sound effects shop built with <strong>Ruby on Rails</strong>.<br> 👉 <a href="https://www.bamsfx.com">Visit BAMSFX</a> </td> </tr><tr><td colspan="2"><br></td></tr>
 
-<tr> <td> <a href="https://app.centrl.studio"> <img width="700" alt="CENTRL" src="https://github.com/user-attachments/assets/f3e92d9e-dc8c-45fd-840d-ff7951f8c2da" /></a> </td> <td> <strong>CENTRL</strong><br>Find Studios and Audio Engineers Near You!</strong>.<br> 👉 <a href="https://app.centrl.studio">Visit CENTRL</a> </td> </tr><tr><td colspan="2"><br></td></tr>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.bamsfx.com">
+        <img width="400" alt="BAMSFX Screenshot" src="https://github.com/user-attachments/assets/062db432-9648-44bb-bdd2-27d963c49566" />
+      </a><br>
+      <strong>BAMSFX</strong><br>
+      My online sound effects shop built with <strong>Ruby on Rails</strong>.<br>
+      👉 <a href="https://www.bamsfx.com">Visit BAMSFX</a>
+    </td>
+    <td align="center">
+      <a href="https://app.centrl.studio">
+        <img width="400" alt="CENTRL" src="https://github.com/user-attachments/assets/f3e92d9e-dc8c-45fd-840d-ff7951f8c2da" />
+      </a><br>
+      <strong>CENTRL</strong><br>
+      Find Studios and Audio Engineers Near You!<br>
+      👉 <a href="https://app.centrl.studio">Visit CENTRL</a>
+    </td>
+    <td align="center">
+      <a href="https://the-quest.onrender.com/">
+        <img width="250" alt="The Quest Screenshot" src="https://user-images.githubusercontent.com/32952612/125621655-bbeb3775-ccc8-483e-b3bb-8cf65c7028d2.png" />
+      </a><br>
+      <strong>The Quest</strong><br>
+      A small WIP game made with <strong>NodeJS/ExpressJS</strong> and <strong>MongoDB</strong>.<br>
+      🎮 <a href="https://the-quest.onrender.com/">Play The Quest</a>
+    </td>
+  </tr>
+</table>
 
-<tr> <td> <a href="https://the-quest.onrender.com/"> <img src="https://user-images.githubusercontent.com/32952612/125621655-bbeb3775-ccc8-483e-b3bb-8cf65c7028d2.png" width="500px" height="250px" alt="The Quest Screenshot" /> </a> </td> <td> <strong>The Quest</strong><br> A small WIP game made to train with <strong>NodeJS/ExpressJS</strong> and <strong>MongoDB</strong>.<br> 🎮 <a href="https://the-quest.onrender.com/">Play The Quest</a> </td> </tr> </table>
 
 <br>
 <details>
