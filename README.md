@@ -51,10 +51,7 @@ Here are some ideas to get you started:
   <summary>📚 More about me</summary>
   I started programming in 2020 while working as a sound designer...
 </details>
-<h3>Check out some of my projects:</h3>
 
-- **BAMSFX** my online Sound Effects shop built with **Ruby on Rails: [HERE](https://www.bamsfx.com)** <br>
-[<img src="https://user-images.githubusercontent.com/32952612/125622993-8d56cd7e-1d71-4990-96e2-bebac0adee3d.png" alt="alt text" width="250px">](https://www.bamsfx.com)
+🚀 Check out some of my projects
+<table> <tr> <td> <a href="https://www.bamsfx.com"> <img src="https://user-images.githubusercontent.com/32952612/125622993-8d56cd7e-1d71-4990-96e2-bebac0adee3d.png" width="250px" alt="BAMSFX Screenshot" /> </a> </td> <td> <strong>BAMSFX</strong><br> My online sound effects shop built with <strong>Ruby on Rails</strong>.<br> 👉 <a href="https://www.bamsfx.com">Visit BAMSFX</a> </td> </tr> <tr><td colspan="2"><br></td></tr> <tr> <td> <a href="https://the-quest.onrender.com/"> <img src="https://user-images.githubusercontent.com/32952612/125621655-bbeb3775-ccc8-483e-b3bb-8cf65c7028d2.png" width="250px" alt="The Quest Screenshot" /> </a> </td> <td> <strong>The Quest</strong><br> A small WIP game made to train with <strong>NodeJS/ExpressJS</strong> and <strong>MongoDB</strong>.<br> 🎮 <a href="https://the-quest.onrender.com/">Play The Quest</a> </td> </tr> </table>
 
-- **The Quest** a small WIP game that I made mostly to train with **NodeJS/ExpressJS** and **MongoDB**: **[The Quest](https://the-quest.onrender.com/)**
-[<img src="https://user-images.githubusercontent.com/32952612/125621655-bbeb3775-ccc8-483e-b3bb-8cf65c7028d2.png" alt="alt text" width="250px">](https://the-quest.onrender.com/)
