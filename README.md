@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <tr> <td> <a href="https://app.centrl.studio"> <img width="1439" alt="CENTRL" src="https://github.com/user-attachments/assets/f3e92d9e-dc8c-45fd-840d-ff7951f8c2da" /></a> </td> <td> <strong>CENTRL</strong><br>Find Studios and Audio Engineers Near You!</strong>.<br> 👉 <a href="https://app.centrl.studio">Visit CENTRL</a> </td> </tr><tr><td colspan="2"><br></td></tr>
 
-<tr> <td> <a href="https://the-quest.onrender.com/"> <img src="https://user-images.githubusercontent.com/32952612/125621655-bbeb3775-ccc8-483e-b3bb-8cf65c7028d2.png" width="900" alt="The Quest Screenshot" /> </a> </td> <td> <strong>The Quest</strong><br> A small WIP game made to train with <strong>NodeJS/ExpressJS</strong> and <strong>MongoDB</strong>.<br> 🎮 <a href="https://the-quest.onrender.com/">Play The Quest</a> </td> </tr> </table>
+<tr> <td> <a href="https://the-quest.onrender.com/"> <img src="https://user-images.githubusercontent.com/32952612/125621655-bbeb3775-ccc8-483e-b3bb-8cf65c7028d2.png" width="700px" height="300px" alt="The Quest Screenshot" /> </a> </td> <td> <strong>The Quest</strong><br> A small WIP game made to train with <strong>NodeJS/ExpressJS</strong> and <strong>MongoDB</strong>.<br> 🎮 <a href="https://the-quest.onrender.com/">Play The Quest</a> </td> </tr> </table>
 
 <br>
 <details>
