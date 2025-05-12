@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center">
+ <a href="https://jl-turquin.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&duration=4000&pause=1000&color=df1448&center=true&vCenter=true&width=435&lines=👋+Olivier+Girardot;💻+Software+Engineer;🔊+Sound+Designer;🧑‍🏫+Web+Dev+Teacher" alt="Typing SVG" /></a>
+</div>
+<br>
+
+
 <!--
 **OGsoundFX/OGsoundFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
