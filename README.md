@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 <!--
 **OGsoundFX/OGsoundFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 🎧 Check out my **Sound Effect online shop: [BAMSFX](https://www.bamsfx.com)**
 - 🎓 I graduated from the **Lewagon coding bootcamp** in March 2020 🚀
 - 🎹 I have been a professional musician and sound designer for over 15 years. I even have my **[Youtube Channel](https://www.youtube.com/ogsoundfx)**
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -47,7 +49,18 @@ Here are some ideas to get you started:
 
 <br>
 
-🚀 Check out some of my projects
+<a href="https://github.com/ogsoundfx/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ogsoundfx" />
+</a>
+<a href="https://github.com/ogsoundfx/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogsoundfx&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<br>
+<br>
+<br>
+
+## 🚀 Check out some of my projects
 <table> <tr> <td> <a href="https://bamsfx.com"> <img width="700" alt="Screenshot 2025-05-12 at 12 46 17" src="https://github.com/user-attachments/assets/062db432-9648-44bb-bdd2-27d963c49566" />
  </a> </td> <td> <strong>BAMSFX</strong><br> My online sound effects shop built with <strong>Ruby on Rails</strong>.<br> 👉 <a href="https://www.bamsfx.com">Visit BAMSFX</a> </td> </tr><tr><td colspan="2"><br></td></tr>
 
@@ -57,7 +70,7 @@ Here are some ideas to get you started:
 
 <br>
 <details>
-  <summary>📚 More about me</summary>
+  <summary> <h3>📚 More about me</h3></summary>
 
   Hi! I'm a sound designer turned full-stack developer based in Berlin.  
   I started programming in 2020 while working in the audio world, curious to build the tools I wished I had as a creator.
@@ -72,4 +85,3 @@ Here are some ideas to get you started:
   🎮 Hobbies: pixel art games, storytelling, composing music, and experimenting with voice UIs.
 
 </details>
-
