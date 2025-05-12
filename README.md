@@ -58,5 +58,18 @@ Here are some ideas to get you started:
 <br>
 <details>
   <summary>📚 More about me</summary>
-  I started programming in 2020 while working as a sound designer...
+
+  Hi! I'm a sound designer turned full-stack developer based in Berlin.  
+  I started programming in 2020 while working in the audio world, curious to build the tools I wished I had as a creator.
+
+  My first big project was [BAMSFX](https://www.bamsfx.com), an online sound effects shop where I combined my passion for sound with web development, using **Ruby on Rails**, **PostgreSQL**, and **Cloudinary**.  
+  Since then, I've explored both backend and frontend technologies—working with **Stimulus**, **NodeJS**, **MongoDB**, **AJAX**, and more.
+
+  I'm passionate about building useful, creative, and well-designed applications, and I love learning new tools that help bring ideas to life.  
+  Outside of code, I’m a huge sci-fi fan (yes, I’m building a voice AI inspired by the Star Trek computer), and I never pass up a chance to design a soundscape.
+
+  🛠️ Tools I enjoy: Rails, JavaScript, Stimulus, Cloudinary, Postman, and Markdown itself!  
+  🎮 Hobbies: pixel art games, storytelling, composing music, and experimenting with voice UIs.
+
 </details>
+
