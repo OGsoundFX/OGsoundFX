@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - My name is Olivier Girardot. I am French, born in LA and living in Berlin.
-- 🔭 I’m currently Software Engineer @**[centrl.studio](https://app.centrl.studio/)**, Web Dev Teacher @**LeWagon** and Sound Designer @**[BamSFX](https://www.bamsfx.com)**
+- 🔭 I’m currently Founder, Software Engineer and Sound Designer @**[BamSFX](https://www.bamsfx.com)**, as well as AI & Software Engineer Teacher @**LeWagon**.
 - I build web applications in ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 - 🎧 Check out my **Sound Effect online shop: [BAMSFX](https://www.bamsfx.com)**
 - 🎓 I graduated from the **Lewagon coding bootcamp** in March 2020 🚀
