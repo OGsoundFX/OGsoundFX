@@ -67,7 +67,7 @@ Here are some ideas to get you started:
       👉 <a href="https://www.bamsfx.com">Visit BAMSFX</a>
     </td>
     <td align="center">
-      <a href="https://app.centrl.studio">
+      <a href="https://centrl.onrender.com/">
         <img width="400" alt="CENTRL" src="https://github.com/user-attachments/assets/f3e92d9e-dc8c-45fd-840d-ff7951f8c2da" />
       </a><br>
       <strong>CENTRL</strong><br>
