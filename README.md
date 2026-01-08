@@ -54,17 +54,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="https://github.com/ogsoundfx/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ogsoundfx" />
-</a>
-<a href="https://github.com/ogsoundfx/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogsoundfx&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<br>
-<br>
-<br>
-
 ## 🚀 Check out some of my projects
 
 <table>
