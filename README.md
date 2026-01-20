@@ -72,7 +72,7 @@ Here are some ideas to get you started:
       </a><br>
       <strong>CENTRL</strong><br>
       Find Studios and Audio Engineers Near You!<br>
-      👉 <a href="https://app.centrl.studio">Visit CENTRL</a>
+      👉 <a href="https://centrl.onrender.com/">Visit CENTRL</a>
     </td>
     <td align="center">
       <a href="https://the-quest.onrender.com/">
